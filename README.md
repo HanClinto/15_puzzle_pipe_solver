@@ -1,7 +1,7 @@
 # 15_puzzle_pipe_solver
 
 ## Description
-Given a 15 Puzzle with connecting pipes, exhaustively find all possible solutions. Useful for solving a puzzle in the game Heroine's Quest.s
+Given a 15 Puzzle with connecting pipes, exhaustively find all possible solutions. Useful for solving a "15 puzzle" sliding tile puzzle in the game Heroine's Quest.
 
 ## Puzzle Constraints
 
